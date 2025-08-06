@@ -16,5 +16,7 @@ Esta aplicación te permite:
 3. Clickea _"Sortear amigo"_ para elegir un ganador
 4. Listo! El amigo secreto seleccionado se mostrará en pantalla
 
+![Así es como se va a ver :) ](assets/amigo-secreto.png)
+
 ```bash
 # No requiere instalación - solo abri index.html en tu navegador
